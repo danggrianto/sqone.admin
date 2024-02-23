@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sqone.admin",
+    "slug": "sqone.admin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sqone.admin"
+}
